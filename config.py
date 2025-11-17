@@ -1,0 +1,4 @@
+DEFAULT_RDP_PORT = 3101
+DEFAULT_HTTP_PORT = 8080
+DB_PATH = "rdp_server.db"
+LOGS_DIR = "logs"
